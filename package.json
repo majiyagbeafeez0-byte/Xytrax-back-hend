@@ -1,0 +1,14 @@
+
+{
+  "name": "xytrax-group-id-finder",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "pino": "^9.5.0"
+  }
+}
